@@ -60,3 +60,10 @@ document.addEventListener("DOMContentLoaded", function () {
     messageIndex = 0;
   });
 });
+
+const playButton = document.querySelector('.play-button');
+const audio = document.getElementById('myAudio');
+
+playButton.addEventListener('click', () => {
+    audio.play();
+});
