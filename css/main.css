@@ -29,7 +29,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: #ffe1f9;
+  background-color: #360025;
 }
 
 .container {
@@ -64,7 +64,7 @@ body {
 
 .btn-primary {
   font-family: Poppins-Medium, sans-serif;
-  background-color: #53d84e;
+  background-color: #379c0cf6;
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -74,12 +74,12 @@ body {
 }
 
 .btn-primary:hover {
-  background-color: #4fb63d;
+  background-color: #31a819;
 }
 
 .btn-secondary {
   font-family: Poppins-Medium, sans-serif;
-  background-color: #ff6e6e;
+  background-color: #900404f3;
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -89,12 +89,12 @@ body {
 }
 
 .btn-secondary:hover {
-  background-color: #d44e4e;
+  background-color: #a00c0c;
 }
 
 .btn-reset {
   font-family: Poppins-Medium, sans-serif;
-  background-color: #4c6be6;
+  background-color: #081c9c;
   color: #fff;
   border: none;
   padding: 10px 20px;
@@ -105,7 +105,7 @@ body {
 }
 
 .btn-reset:hover {
-  background-color: #3a4dbd;
+  background-color: #071daf;
 }
 
 @media (max-width: 575px) {
@@ -205,8 +205,9 @@ body {
     font-size: 24px;
   }
 }
+
 .play-button {
-  background-color: #f52dc3e8; /* Verde */
+  background-color: #b0047c; /* Verde */
   color: white;
   padding: 15px 32px;
   text-align: center;
@@ -216,4 +217,10 @@ body {
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 12px;
+  border: 2px solid white;
+  border-right: 2px solid #888484;
+  border-bottom: 2px solid #888484;
 }
+.blanco {
+    color: rgb(255, 255, 255);
+    }
