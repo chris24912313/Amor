@@ -15,9 +15,9 @@ document.addEventListener("DOMContentLoaded", function () {
     "Por favor, Mi Princesita👸🏻",
     "Di que sí, Mi bebe🥺",
     "No te rindas, Mi Dianita🤗",
-    "¿Si te doy besitos diras que sí?😘",
+    "¿Si te doy besitos, diras que sí?😘",
     "Amame mucho, Mi niñita hermosa❤️",
-    "Solo un click mi amorcito🥰",
+    "Solo un click, mi amorcito🥰",
     "Mi vida, me harias feliz si dices que si💝",
   ];
   let messageIndex = 0;
